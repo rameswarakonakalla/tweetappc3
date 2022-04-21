@@ -7,7 +7,7 @@
 --->  Create a docker image using docker file 
 
 -----------------------------------------------
-    goto dockerfile folder --> open cmd -> docker build -t <imagename> .
+    
 
     example : docker images   -- list of images
 
